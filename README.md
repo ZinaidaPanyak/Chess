@@ -8,8 +8,8 @@
 5. Можно ли с поля (k, l) одним ходом ферзя попасть на поле (m, n)? Если нет, то как это можно сделать за два хода?
 6. Можно ли с поля (k, l) одним ходом слона попасть на поле (m, n)? Если нет, то как это можно сделать за два хода?  
 ## Скриншоты
-![Скриншот](https://github.com/ZinaidaPanyak/Hierarchy_Saaty/blob/main/one.png)
-![Скриншот](https://github.com/ZinaidaPanyak/Hierarchy_Saaty/blob/main/two.png)
-![Скриншот](https://github.com/ZinaidaPanyak/Hierarchy_Saaty/blob/main/three.png)
+![Скриншот](https://github.com/ZinaidaPanyak/Chess/blob/main/one.png)
+![Скриншот](https://github.com/ZinaidaPanyak/Chess/blob/main/two.png)
+![Скриншот](https://github.com/ZinaidaPanyak/Chess/blob/main/three.png)
 ## Описание среды программирования
 Эта программа написана на языке Python в среде разработки PyCharm. Следует открыть файл Chess.py, где и находится код программы. При запуске программы следует ввести четыре целых числа (каждое в пределах от 1 до 8). В итоге на экране появятся ответы на приведенные вопросы.
